@@ -1,7 +1,7 @@
 import setuptools
 from pathlib import Path
 
-with open("readme.md", "r", encoding="utf-8") as fh:
+with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 python_versions = '>=3.7, <3.11'  # restricted by open3d
