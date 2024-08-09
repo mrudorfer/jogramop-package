@@ -64,3 +64,24 @@ from jogramop.visualization import visualize_waypoints
 
 visualize_waypoints(scenario, list_of_waypoints)
 ```
+
+
+## Citation
+
+If you use this work, please consider citing our publication:
+
+M. Rudorfer, J. Hartvich and V. Vonásek, "[A Framework for Joint Grasp and Motion Planning in Confined Spaces](https://ieeexplore.ieee.org/document/10604306)," 2024 13th International Workshop on Robot Motion and Control (RoMoCo), Poznań, Poland, 2024, pp. 1-7, doi: 10.1109/RoMoCo60539.2024.10604306.
+
+```
+@INPROCEEDINGS{jogramop_2024,
+  author={Rudorfer, Martin and Hartvich, Jiři and Vonásek, Vojtěch},
+  booktitle={2024 13th International Workshop on Robot Motion and Control (RoMoCo)}, 
+  title={A Framework for Joint Grasp and Motion Planning in Confined Spaces}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-7},
+  keywords={Robot motion;Annotations;Conferences;Grasping;Benchmark testing;Aerospace electronics;Planning},
+  doi={10.1109/RoMoCo60539.2024.10604306}
+}
+```
